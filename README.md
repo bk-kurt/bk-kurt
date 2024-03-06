@@ -4,8 +4,7 @@ I save some of my personal works here, they are mainly about:
 - Use cases of some frameworks
 
 ### Videos
----- > [Youtube 1](https://www.youtube.com/@burakkurt2927/videos) <br>
----- > [Youtube 2](https://www.youtube.com/@burakkurt2927/shorts) <br>
+---- > [Youtube](https://www.youtube.com/channel/UCQYpgtaPzPdy0UhAxiCTLdw) <br>
 
 ### Other
 ---- > [LinkedIn](https://www.linkedin.com/in/burakkurt001/)
